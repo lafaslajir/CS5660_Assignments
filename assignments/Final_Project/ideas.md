@@ -186,15 +186,20 @@ composed or stacked
 - https://huggingface.co/transformers/
 
 ### References
+1.Lample, G., Denoyer, L., & Ranzato, M. (2018). Unsupervised machine translation using monolingual corpora only. In International Conference on Learning Representations. (https://arxiv.org/abs/1711.00043)
 
-1. Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, Noah A. Smith, “[Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964)“, In ACL 2020.
+2. Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). (https://arxiv.org/abs/1706.03762)
 
-2. Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly, “[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)”, In ICML 2019.
+3. Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, Noah A. Smith, “[Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964)“, In ACL 2020.
 
-3. McCloskey, M. and Cohen, N. J., “Catastrophic interference in connectionist networks: The sequential learning problem”, In Psychology of learning and motivation. 1989.
+4. Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly, “[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)”, In ICML 2019.
 
-4. Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych, “[AdapterHub: A Framework for Adapting Transformers](https://arxiv.org/abs/2007.07779)”, arXiv preprint.
+5. McCloskey, M. and Cohen, N. J., “Catastrophic interference in connectionist networks: The sequential learning problem”, In Psychology of learning and motivation. 1989.
 
-5. Jonas Pfeiffer, Aishwarya Kamath, Andreas Rücklé, Kyunghyun Cho, Iryna Gurevych, “[AdapterFusion: NonDestructive Task Composition for Transfer Learning](https://arxiv.org/abs/2005.00247)”, arXiv preprint.
+6. Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych, “[AdapterHub: A Framework for Adapting Transformers](https://arxiv.org/abs/2007.07779)”, arXiv preprint.
 
-6. Sylvestre-Alvise Rebuffi, Hakan Bilen, Andrea Vedaldi, “[Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045)”, In NeurIPS 2017.
+7. Jonas Pfeiffer, Aishwarya Kamath, Andreas Rücklé, Kyunghyun Cho, Iryna Gurevych, “[AdapterFusion: NonDestructive Task Composition for Transfer Learning](https://arxiv.org/abs/2005.00247)”, arXiv preprint.
+
+8. Sylvestre-Alvise Rebuffi, Hakan Bilen, Andrea Vedaldi, “[Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045)”, In NeurIPS 2017.
+
+9. Fan, A., Edunov, S., Grave, E., Hannun, A. Y., Joulin, A., & Korhonen, A. (2020). Massively multilingual neural machine translation. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 6215-6226). (https://arxiv.org/abs/2003.04696)
